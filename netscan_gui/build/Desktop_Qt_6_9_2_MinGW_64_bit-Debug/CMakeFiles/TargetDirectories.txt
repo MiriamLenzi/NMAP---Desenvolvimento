@@ -1,0 +1,5 @@
+C:/Users/lenzi/Projetos/netscan_gui/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/netscan_gui.dir
+C:/Users/lenzi/Projetos/netscan_gui/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lenzi/Projetos/netscan_gui/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lenzi/Projetos/netscan_gui/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/netscan_gui_autogen_timestamp_deps.dir
+C:/Users/lenzi/Projetos/netscan_gui/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/netscan_gui_autogen.dir
